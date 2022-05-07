@@ -26,3 +26,5 @@ x2="70%"
  </svg>
 ```
 # Output
+![Capture](https://user-images.githubusercontent.com/89020930/167247021-e3402587-cd3c-4980-809a-9602ba5f51d1.PNG)
+
